@@ -1,0 +1,10 @@
+* {
+  font-family: "Oswald", sans-serif;
+}
+
+.section-banner {
+  height: 780px;
+  background-image: url(../../images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+}
